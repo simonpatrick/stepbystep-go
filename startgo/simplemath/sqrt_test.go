@@ -1,9 +1,11 @@
 package simplemath
 
-import "testing"
+import (
+    "testing"
+)
 
 func TestSqrt(t *testing.T)  {
-    v :=Sqrt(16)
+    v:= Sqrt(16)
     if v!=4{
       t.Error("Sqrt(16) failed!")
     }
