@@ -1,2 +1,0 @@
-- https://github.com/astaxie/
-- https://github.com/qiniu/
